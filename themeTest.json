@@ -38,7 +38,7 @@
     "INTERACTIVE_ACTIVE": [ "#f2f3f5", "#f2f3f5" ],
     "INTERACTIVE_HOVER": [ "#939ab7", "#939ab7" ],
     "INTERACTIVE_MUTED": [ "#a5adcb", "#a5adcb" ],
-    "INTERACTIVE_NORMAL": [ "#939ab7", "#939ab7" ],
+    "INTERACTIVE_NORMAL": [ "#b5bac1", "#b5bac1" ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [ "#2b2d31", "#2b2d31" ],
     "REDESIGN_BUTTON_SECONDARY_BORDER": [ "#494d64", "#494d64" ],
     "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [ "#313338", "#313338" ],
