@@ -1,2 +1,2 @@
 # themestest
-Attempt to add the old Discord theme colors back using a [Vendetta](https://github.com/vendetta-mod/Vendetta) theme.
+Attempt to bring the old Discord mobile client colors back using a [Vendetta](https://github.com/vendetta-mod/Vendetta) theme.
