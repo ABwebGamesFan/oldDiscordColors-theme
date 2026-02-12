@@ -13,7 +13,7 @@
     "BACKGROUND_BASE_LOWEST": ["#1e1f22"],
     "BACKGROUND_BRAND": ["#5865f2"],
     "BACKGROUND_MOD_MUTED": ["#404249"],
-    "BACKGROUND_MOD_STRONG": ["#c4c9ce"],
+    "BACKGROUND_MOD_STRONG": ["#3b3d44"],
     "BACKGROUND_SURFACE_HIGH": ["#2b2d31"],
     "BG_SURFACE_OVERLAY_TMP": ["#111214"],
     "BG_SURFACE_RAISED": ["#090a0b"],
@@ -53,6 +53,8 @@
     "THREAD_CHANNEL_SPINE": ["#41434a"]
   },
   "rawColors": {
+    "BRAND_260": "c9cdfb",
+    "BRAND_360": "393b47"
   },
   "spec": 2
 }
